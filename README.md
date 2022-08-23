@@ -1,6 +1,10 @@
 ### Hi there 👋
 
-**AndresAmu/AndresAmu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**About Me:
+
+- I am Andrés Amuchástegui, web/mobile app experimented developer. I have a solid formation in backend and frontend, as well as in other diverse technologies such as: JavaScript, Node JS, React, React Native, Redux, Express, MongoDB, GitHub, HTML5 y CSS3. I have been trained for more than 700 h practising in a simulated work environment while applying AGILE/SCRUM methodologies.
+I am inspiration in learning constantly by facing new challenges, in order to conceive and build up solutions.
+My adaptability, dedication and fast-learning will add to your team not only new habilities and valuable experiences, but also warmth, inspirarion and fellowship at the same time. Regards!
 
 Here are some ideas to get you started:
 
