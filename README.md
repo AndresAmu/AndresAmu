@@ -1,5 +1,5 @@
 
-<h1> 😎 Hi, I'm Andrés Amuchástegui, Full Stack MERN developer.</h1>
+<h2> 😎 Hi, I'm Andrés Amuchástegui, Full Stack MERN developer.</h2>
 
 # 📱Social
 [![enter image description here](https://emojipedia-us.s3.amazonaws.com/content/2020/04/05/yt.png)
