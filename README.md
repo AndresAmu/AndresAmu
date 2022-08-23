@@ -2,7 +2,7 @@
 
 <h1>About Me:</h1>
 
-🤩 I ' m Andrés Amuchástegui, Full Stack MERN developer.
+🤩 I ' m Andrés Amuchástegui, Full Stack MERN developer 🇦🇷.
 
 # 📱Social
  [![enter image description here](https://emojipedia-us.s3.amazonaws.com/content/2020/04/05/yt.png)
