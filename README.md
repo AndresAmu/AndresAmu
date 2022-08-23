@@ -5,8 +5,9 @@
 - 🤩 I ' m Andrés Amuchástegui, Full Stack MERN programmer.
 
 <h2>Social:</h2>
-[Instagram] [https://www.instagram.com/and_amu_]
-<a href:"https://www.youtube.com/user/andresamuchastegui">Youtube</a>
+[Instagram]: https://www.instagram.com/and_amu_
+[Youtube]: https://www.youtube.com/user/andresamuchastegui
+![](/ruta/a/la/imagen.jpg)[]:https://www.linkedin.com/in/andr%C3%A9s-amuch%C3%A1stegui-3b47ab21b/
 
 
 
