@@ -2,7 +2,7 @@
 
 <h1>About Me:</h1>
 
-🤩 I ' m Andrés Amuchástegui, Full Stack MERN developer.
+<p> 😎 I ' m Andrés Amuchástegui, Full Stack MERN developer.</p>
 
 # 📱Social
 [![enter image description here](https://emojipedia-us.s3.amazonaws.com/content/2020/04/05/yt.png)
@@ -15,3 +15,4 @@
 # 📊 GitHub Stats:
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=AndresAmu&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
