@@ -9,7 +9,7 @@
 [Youtube]: https://www.youtube.com/user/andresamuchastegui
 ![](/ruta/a/la/imagen.jpg)[]:https://www.linkedin.com/in/andr%C3%A9s-amuch%C3%A1stegui-3b47ab21b/
 
-
+![Texto alternativo]([/ruta/a/la/imagen.jpg](https://camo.githubusercontent.com/b4befe54390ddf13216a4b89766f748847cd9240ca756eab2296d3e26da8e2ef/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f637373332d2532333135373242362e7376673f7374796c653d666c6174266c6f676f3d63737333266c6f676f436f6c6f723d7768697465))
 
 Here are some ideas to get you started:
 
