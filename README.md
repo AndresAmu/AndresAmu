@@ -1,7 +1,7 @@
 
 <h1>Hi, I'm Andrés Amuchástegui, Full Stack MERN developer.</h1>
 <h3>Welcome to my HitHub 😎.</h3>
-
+![enter image description here](https://educacion30.b-cdn.net/wp-content/uploads/2019/06/homer.gif)
 # 📱Social
 [![enter image description here](https://emojipedia-us.s3.amazonaws.com/content/2020/04/05/yt.png)
  ](https://www.youtube.com/user/andresamuchastegui)          
