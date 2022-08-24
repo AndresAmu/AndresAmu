@@ -3,7 +3,7 @@
 <h3>Welcome to my HitHub 😎.</h3>
 
 #
-![enter image description here](https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+![enter image description here](https://i.pinimg.com/originals/3c/bc/58/3cbc5852b03e549f6ff4d14c80031349.gif)
 # 📱Social
 
 [![enter image description here](https://emojipedia-us.s3.amazonaws.com/content/2020/04/05/yt.png)
