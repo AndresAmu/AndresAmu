@@ -1,6 +1,7 @@
 
 <h1>Hi, I'm Andrés Amuchástegui, Full Stack MERN developer.</h1>
 <h3>Welcome to my HitHub 😎.</h3>
+![enter image description here](https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
 # 📱Social
 [![enter image description here](https://emojipedia-us.s3.amazonaws.com/content/2020/04/05/yt.png)
