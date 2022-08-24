@@ -1,6 +1,6 @@
 
 # Hi, I'm Andrés Amuchástegui, Full Stack MERN developer
-### Welcome to my HitHub 😎.
+###
 ![enter image description here](https://i.pinimg.com/originals/3c/bc/58/3cbc5852b03e549f6ff4d14c80031349.gif)
 
 # 📱Social
